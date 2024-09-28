@@ -4,7 +4,7 @@ title: "YEET"
 description: "I will take you on the fabulous world of Tristan!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
+baseurl: ""
 google_analytics: ''
 disqus: 'demowebsite'
 mailchimp-list: ''
