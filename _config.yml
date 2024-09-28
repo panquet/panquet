@@ -14,7 +14,6 @@ email: site@panquet.com.au
 
 # Authors
 authors:
-  
   Seb:
     name: Seb
     display_name: Baz
@@ -59,8 +58,6 @@ markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
       disable : true
-
-
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
