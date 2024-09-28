@@ -17,7 +17,7 @@ authors:
   Seb:
     name: Seb
     display_name: Baz
-    avatar: 'assets/images/avatar-john.png'
+    avatar: 'assets/images/avatar-seb.png'
     email: site@panquet.com.au
     web: https://panquet.com.au
     twitter: https://x.com/elonmusk
@@ -25,7 +25,7 @@ authors:
   Tristan:
     name: Tristan
     display_name: T    
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatar-T.png'
     email: site@panquet.com.au
     web: https://panquet.com.au
     twitter: https://x.com/elonmusk
