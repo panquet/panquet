@@ -6,6 +6,10 @@
 - 😄 
 - ⚡ Fun fact: theres nothing interesting on this repo exect some family photos (available on my facebook anyway)
 
+dont delete the CNAME or the readme.md
+cheers
+
+
 <!---
 panquet/panquet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
