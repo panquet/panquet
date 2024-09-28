@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: A free and useless wesbite between brothers
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+This website is a demonstration to see **Seb and T** getting along. The theme is compatible with all siblings, but LOL.
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+<a target="_blank" href="https://panquet.com.au" class="btn btn-dark"> See More &rarr;</a>
 
